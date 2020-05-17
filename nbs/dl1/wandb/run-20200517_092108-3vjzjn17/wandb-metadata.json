@@ -1,0 +1,29 @@
+{
+    "root": "/course-v3",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/free-soellingeraj/course-v3.git",
+        "commit": "9ca0d1cf6154ae175ffa5aa6d613ae1bd3020429"
+    },
+    "email": null,
+    "startedAt": "2020-05-17T09:18:51.293654",
+    "host": "04dc7759a8fe",
+    "username": "root",
+    "executable": "/opt/conda/bin/python",
+    "os": "Linux-4.15.0-99-generic-x86_64-with-debian-buster-sid",
+    "python": "3.6.9",
+    "gpu": "Quadro M4000",
+    "gpu_count": 1,
+    "cpu_count": 8,
+    "cuda": "10.2.89",
+    "args": [
+        "-f",
+        "/root/.local/share/jupyter/runtime/kernel-db37c665-b2f9-4521-ab6b-eaafd1536bf7.json"
+    ],
+    "state": "running",
+    "jobType": null,
+    "mode": "run",
+    "name": "sage-durian-1",
+    "project": "emotions-emotions-raf_face_database_basic",
+    "heartbeatAt": "2020-05-17T09:21:10.578931"
+}

@@ -1,0 +1,28 @@
+{
+    "root": "/course-v3",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/free-soellingeraj/course-v3.git",
+        "commit": "9ca0d1cf6154ae175ffa5aa6d613ae1bd3020429"
+    },
+    "email": null,
+    "startedAt": "2020-05-16T06:44:58.757470",
+    "host": "04dc7759a8fe",
+    "username": "root",
+    "executable": "/opt/conda/bin/python",
+    "os": "Linux-4.15.0-96-generic-x86_64-with-debian-buster-sid",
+    "python": "3.6.9",
+    "gpu": "Quadro M4000",
+    "gpu_count": 1,
+    "cpu_count": 8,
+    "cuda": "10.2.89",
+    "args": [
+        "-f",
+        "/root/.local/share/jupyter/runtime/kernel-bc256feb-4fcb-48e9-8ab5-4a8433b10098.json"
+    ],
+    "state": "running",
+    "jobType": null,
+    "mode": "run",
+    "project": "course-v3-nbs_dl1",
+    "heartbeatAt": "2020-05-16T06:47:21.537584"
+}
